@@ -5,12 +5,12 @@
 1. first steps
    - scrapy 是什么
    - 安装
-   - 编写你的第一个 scrapy 项目
+   - 运行第一个 scrapy 项目
    - 更多
 2. basic concepts
    - 使用命令行工具来管理你的 scrapy 项目
-   - 编写爬取规则
-   - 选择器
+   - 编写爬取规则（Spiders）
+   - 选择器（Selector）
    - scrapy shell
    - items
    - item loader
