@@ -15,7 +15,7 @@
 
 #### Selector
 
-selector 是 scrapy 的一个组件，基于 lxml 开发，用来从 HTML 或 XML 中提取信息
+> selector 是 scrapy 的一个组件，基于 lxml 开发，用来从 HTML 或 XML 中提取信息
 
 使用 `Selector(text=body)` 或 `Selector(response=response)` 
 
